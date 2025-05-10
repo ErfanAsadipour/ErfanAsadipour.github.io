@@ -6,11 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <style>
-      p.size30 {
-        font-size: 30px;
-      }
-      p.size50 {
-        font-size: 50px;
+      p.size16 {
+        font-size: 16px;
       }
       </style>
 
@@ -24,13 +21,13 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h2><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h2>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" height="250" />
         {% endif %}
 
-        <p class="size30">{{ site.description | default: site.github.project_tagline }}</p>
+        <p class="size16">{{ site.description | default: site.github.project_tagline }}</p>
 
         <a href="https://orcid.org/0000-0002-7083-4313" style="text-decoration: none">
           <img src="ORCID.png" alt="ORCID" height="25"> 
