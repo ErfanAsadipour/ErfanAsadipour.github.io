@@ -3,8 +3,8 @@
 
 <body>
 
-<div class="space"></div>
-<img src="FSEC.png" height="250" alt="FSEC" style=" float: right; margin-left: 50px; margin-right: 250px; border-style:solid">
+<!--<div class="space"></div>
+<img src="FSEC.png" height="250" alt="FSEC" style=" float: right; margin-left: 50px; margin-right: 250px; border-style:solid"> -->
 
 <a href="https://orcid.org/0000-0002-7083-4313" style="text-decoration: none">
   <img src="ORCID.png" alt="ORCID" height="25">
