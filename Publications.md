@@ -7,7 +7,7 @@
  </a> &#x2022; 
   <a href="/Publications"> 
  Publications, Presentations, and Services 
- </a> &#x2022;<br>
+ </a> &#x2022;<br> <hr>
 </div>
 
 
