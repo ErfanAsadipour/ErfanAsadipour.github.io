@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 
 <body>
@@ -18,13 +18,13 @@
 <span> &#x2709; </span>
 <a href="erfan.asadipour@fsec.ucf.edu";> erfan.asadipour@ucf.edu</a>
 
-<h4 style= "margin-left: 200px"> Background </h4>
+<h4 style= "margin-left: 10px"> Background </h4>
 
-<p style= "margin-left: 200px; margin-right: 200px"> I am a  <p>
+<p style= "margin-left: 10px; margin-right: 10px"> I am a chemical engineer.  <p>
 
-<h4 style= "margin-left: 200px"> Education </h4>
+<h4 style= "margin-left: 10px"> Education </h4>
 
-<ul style="line-height:200%; margin-left: 200px; margin-right: 200px">
+<ul style="line-height:200%; margin-left: 10px; margin-right:10px">
 <li>  <b> Ph.D. </b> in Energy, Environmental and Chemical Engineering, Washington University in St. Louis, USA, <b> 2025 </b> <br> Research Assistant at Electrochemical Engineering Research Laboratory (PI: Prof. Vijay Ramani) <br> Dissertation title: <em> Enhancing Ion Transport and Electron Transfer in Redox Flow Batteries through Component Design </em> </li> 
 <li>  <b> M.Sc. </b> in Energy, Environmental and Chemical Engineering, Washington University in St. Louis, USA, <b> 2021 </b> <br> Research Assistant at Electrochemical Engineering Research Laboratory (PI: Prof. Vijay Ramani) <br> Thesis title: <em> Analysis of Fluid Flow in Redox Flow Batteries </em> </li>
 <li>  <b> B.Sc. </b> in Mechanical Engineering, Sharif University of Technology, Iran, <b> 2018 </b> <br> Supervised by Prof. Vahid Hosseini
