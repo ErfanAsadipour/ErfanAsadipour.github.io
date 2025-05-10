@@ -6,8 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <style>
-      p.size30 {font-size: 30px;}
-      p.size50 {font-size: 50px;}
+      p.size30 {
+        font-size: 30px;
+      }
+      p.size50 {
+        font-size: 50px;
+      }
       </style>
 
 {% seo %}
@@ -26,7 +30,7 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" height="250" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p class="size30">{{ site.description | default: site.github.project_tagline }}</p>
 
         <a href="https://orcid.org/0000-0002-7083-4313" style="text-decoration: none">
           <img src="ORCID.png" alt="ORCID" height="25"> 
@@ -42,8 +46,8 @@
         <a href="https://x.com/erfanassadipour" style="text-decoration: none">
           <img src="X.png" alt="X (Twitter)" height="25">
         </a> <br>
-        <a href="mailto:erfan.asadipour@fsec.ucf.edu" style="text-decoration: none">
-          <span class="size30">&#x2709;</span> erfan.asadipour@fsec.ucf.edu
+        Email: <a href="mailto:erfan.asadipour@fsec.ucf.edu" style="text-decoration: none">
+          erfan.asadipour@fsec.ucf.edu
         </a>
 
        <!-- {% if site.github.is_project_page %}
