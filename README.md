@@ -27,7 +27,7 @@
 
 <p style= "margin-left: 10px; margin-right: 10px"> I am a chemical engineer.  <p> -->
 
- <a href=""> 
+ <a href="/"> 
  Home 
  </a> &#x2022; 
   <a href="/Publications"> 
