@@ -27,9 +27,7 @@
 
 <p style= "margin-left: 10px; margin-right: 10px"> I am a chemical engineer.  <p> -->
 
-<a href="Home.html"; style="padding: 5px; margin-left: 200px"> Home </a> &#x2022;
-<a href="Research interests.html"; style="padding: 5px;"> Research interests </a> &#x2022;
-<a href="Publications.html"; style="padding: 5px;"> Publications, presentations, and services</a>
+<a href="README.md"; style="padding: 5px; margin-left: 200px"> Home </a> &#x2022;
 
 <h2> Background and Research Interests </h2>
 
