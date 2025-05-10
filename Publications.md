@@ -11,7 +11,7 @@
 </div>
 
 
-<h2> Peer-reviewed publications </h2>
+<h2> Peer-Reviewed Publications </h2>
 <ol style="line-height:200%" >
  <li> Asadipour, E., Ramani, V. (2025) Morphology Control of Immiscible Polymer-Blended Anion-Exchange Membranes, <em> ACS Applied Energy Materials </em> 8, 7, 4681–4687 
   <a href="https://doi.org/10.1021/acsaem.5c00322"> https://doi.org/10.1021/acsaem.5c00322 
@@ -22,7 +22,7 @@
 <li>  Asadipour, E., Ramani, V. (2023) A Computationally-Cost Effective Model for Fluid Flow in Redox Flow Batteries, <em> AIChE Journal </em> 69(7) e18051 <a href="https://doi.org/10.1002/aic.18051"> https://doi.org/10.1002/aic.18051 </a> </li>
 </ol>
 
-<h2> Conference presentations </h2>
+<h2> Conference Presentations </h2>
 <ol style="line-height:200%" >
 <li> Asadipour, E., Ramani, V. (2024) Studying the Effect of Carbonous Fillers on the Properties of Conductive Polymer Composites As Flow Field Plates in Redox Flow Batteries, <em> ECS PRiME 2024</em>, MA2024-02 1315 <a href="https://doi.org/10.1149/MA2024-0291315mtgabs"> Abstract </a> </li>
 <li> Asadipour, E., Sahadevan, S.A., Ramani, V. (2024) A Stable Polymer-Blended Anion-Exchange Membrane for Enhanced Performance in Redox Flow Batteries, <em> 245 <sup>th </sup> ECS Meeting</em>, MA2024-01 529 <a href="https://doi.org/10.1149/MA2024-013529mtgabs"> Abstract </a> </li>
@@ -32,7 +32,7 @@
 
 <h2> Peer Review </h2>
 <ul style="line-height:200%" >
-<li> Indian Chemical Engineer Journal </a> </li>
+<li> Indian Chemical Engineer Journal </li>
 </ul>
 
 </body>
