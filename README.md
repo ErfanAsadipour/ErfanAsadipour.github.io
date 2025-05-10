@@ -38,7 +38,7 @@
 
 <h2> Background and Research Interests </h2>
 
-<p style= "margin-left: 10px; margin-right: 10px"> I am a chemical/mechanical engineering researcher with a specialty in reactor design and polymeric composite development for electrochemical devices. My research interest lies in interdisciplinary topics of performance and durability enhancement of redox flow batteries and water electrolyzers. </p>
+<p style= "margin-left: 10px; margin-right: 10px"> I am a chemical/mechanical engineering researcher with a specialty in reactor design and polymeric composite development for electrochemical devices. I am interested in applying chemical and mechanical engineering to enhance the performance and durability of redox flow batteries and water electrolyzers. </p>
 
 <h2> Education </h2>
 
