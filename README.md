@@ -4,19 +4,23 @@
 <body>
 
 <div class="space"></div>
-<img src="pro photo.jpeg" height="250" alt="Profile Picture" style=" float: left; margin-left: 200px; margin-right: 50px; border-style:solid">
-
-<div class="space"></div>
 <img src="FSEC.png" height="250" alt="FSEC" style=" float: right; margin-left: 50px; margin-right: 250px; border-style:solid">
 
-<h3> <i> Postdoctoral Scholar </i> </h3>
-<h3 style="line-height: 150%"> Florida Solar Energy Center <br> University of Central Florida </h3>
-<a href="https://orcid.org/0000-0002-7083-4313"; style= "text-decoration: none" > <img src="ORCID.png" alt="ORCID" height= 25> </a>
-<a href="https://scholar.google.com/citations?user=2jh0mGQAAAAJ&hl=en&oi=ao"; style= "text-decoration: none"> <img src="Google.png" alt="Google scholar" height= 25> </a>
-<a href="https://www.linkedin.com/in/erfan-asadipour/"; style= "text-decoration: none"> <img src="Linkedin.png" alt="Linkedin" height= 25> </a>
-<a href="https://x.com/erfanassadipour"; style= "text-decoration: none"> <img src="X.png" alt="X" height= 25> </a>
-<span> &#x2709; </span>
-<a href="erfan.asadipour@fsec.ucf.edu";> erfan.asadipour@ucf.edu</a>
+<a href="https://orcid.org/0000-0002-7083-4313" style="text-decoration: none">
+  <img src="ORCID.png" alt="ORCID" height="25">
+</a>
+<a href="https://scholar.google.com/citations?user=2jh0mGQAAAAJ&hl=en&oi=ao" style="text-decoration: none">
+  <img src="Google.png" alt="Google Scholar" height="25">
+</a>
+<a href="https://www.linkedin.com/in/erfan-asadipour/" style="text-decoration: none">
+  <img src="Linkedin.png" alt="LinkedIn" height="25">
+</a>
+<a href="https://x.com/erfanassadipour" style="text-decoration: none">
+  <img src="X.png" alt="X (Twitter)" height="25">
+</a>
+<a href="mailto:erfan.asadipour@fsec.ucf.edu" style="text-decoration: none">
+  <span>&#x2709;</span> erfan.asadipour@fsec.ucf.edu
+</a>
 
 <h4 style= "margin-left: 10px"> Background </h4>
 
