@@ -21,6 +21,8 @@
   <span>&#x2709;</span> erfan.asadipour@fsec.ucf.edu
 </a>
 
+<div class="space"></div>
+
 <!--<h4 style= "margin-left: 10px"> Background </h4>
 
 <p style= "margin-left: 10px; margin-right: 10px"> I am a chemical engineer.  <p> -->
