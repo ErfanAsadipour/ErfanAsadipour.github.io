@@ -3,7 +3,7 @@
 <body>
 
 <!--<div class="space"></div>
-<img src="FSEC.png" height="250" alt="FSEC" style=" float: right; margin-left: 50px; margin-right: 250px; border-style:solid"> -->
+<img src="FSEC.png" height="250" alt="FSEC" style=" float: right; margin-left: 50px; margin-right: 250px; border-style:solid">
 
 <a href="https://orcid.org/0000-0002-7083-4313" style="text-decoration: none">
   <img src="ORCID.png" alt="ORCID" height="25">
@@ -23,11 +23,11 @@
 
 <div class="space"></div>
 
-<!--<h4 style= "margin-left: 10px"> Background </h4>
+<h4 style= "margin-left: 10px"> Background </h4>
 
 <p style= "margin-left: 10px; margin-right: 10px"> I am a chemical engineer.  <p> -->
 
-<h4 style= "margin-left: 10px"> Education </h4>
+<h2> Education </h2>
 
 <ul style="line-height:200%; margin-left: 10px; margin-right:10px">
 <li>  <b> Ph.D. </b> in Energy, Environmental and Chemical Engineering, Washington University in St. Louis, USA, <b> 2025 </b> <br> Research Assistant at Electrochemical Engineering Research Laboratory (PI: Prof. Vijay Ramani) <br> Dissertation title: <em> Enhancing Ion Transport and Electron Transfer in Redox Flow Batteries through Component Design </em> </li> 
