@@ -30,7 +30,9 @@
  <a href=""> 
  Home 
  </a> &#x2022; 
-        <br>
+  <a href="/Publications"> 
+ Publications, Presentations, and Services 
+ </a> &#x2022;<br>
 
 <h2> Background and Research Interests </h2>
 
