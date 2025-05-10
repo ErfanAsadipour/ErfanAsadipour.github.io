@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/erfan-asadipour/"; style= "text-decoration: none"> <img src="Linkedin.png" alt="Linkedin" height= 25> </a>
 <a href="https://x.com/erfanassadipour"; style= "text-decoration: none"> <img src="X.png" alt="X" height= 25> </a>
 <span> &#x2709; </span>
-<a href="erfan.asadipour@ucf.edu";> erfan.asadipour@ucf.edu</a>
+<a href="erfan.asadipour@fsec.ucf.edu";> erfan.asadipour@ucf.edu</a>
 
 <h4 style= "margin-left: 200px"> Background </h4>
 
