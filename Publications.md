@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<div style="margin-bottom: 100px">
+<div style="margin-bottom: 20px">
   <a href="/"> 
  Home 
  </a> &#x2022; 
