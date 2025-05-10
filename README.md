@@ -27,7 +27,7 @@
 
 <p style= "margin-left: 10px; margin-right: 10px"> I am a chemical engineer.  <p> -->
 
-<a href="README.md"; style="padding: 5px; margin-left: 200px"> Home </a> &#x2022;
+<a style="padding: 5px; margin-left: 200px"> href="{{ "/" | absolute_url }}">{{ site.title | default: Home }} </a> &#x2022; <br>
 
 <h2> Background and Research Interests </h2>
 
