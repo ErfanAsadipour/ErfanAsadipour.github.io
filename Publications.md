@@ -1,15 +1,17 @@
 <html>
 <body>
 
- <a href=""> 
+ <a href="/"> 
  Home 
  </a> &#x2022; 
   <a href="/Publications"> 
  Publications, Presentations, and Services 
  </a> &#x2022;<br>
 
- <h2> Peer-reviewed publications </h2>
+<h2> Peer-reviewed publications </h2>
 <ol style="line-height:200%" >
+ <li> Asadipour, E., Ramani, V. (2025) Morphology Control of Immiscible Polymer-Blended Anion-Exchange Membranes, <em> ACS Applied Energy Materials </em> 8, 7, 4681–4687 <a href="https://doi.org/10.1021/acsaem.5c00322"; style="font-weight: normal"> https://doi.org/10.1021/acsaem.5c00322 </a> 
+ </li>
 <li> Asadipour, E., Sahadevan, S.A., Ramani, V. (2025) Polymer-Blended and Reinforced Anion-Exchange Membranes for Methanesulfonic Acid-Based Titanium-Cerium Redox Flow Batteries, <em> Journal of Membrane Science </em> 718, 123696 <a href="https://doi.org/10.1016/j.memsci.2025.123696"; style="font-weight: normal"> https://doi.org/10.1016/j.memsci.2025.123696 </a> </li>
 <li>  Asadipour, E., Sharma, K., Sahadevan, S.A., Ramani, V. (2024) Recent Advances in Membranes and Ionomers for High and Low-Temperature Electrochemical Hydrogen Pumps, <em> Indian Chemical Engineer </em> 1-26 <a href="https://doi.org/10.1080/00194506.2024.2433079"; style="font-weight: normal"> https://doi.org/10.1080/00194506.2024.2433079 </a> </li>
 <li>  Asadipour, E., Ramani, V. (2023) A Computationally-Cost Effective Model for Fluid Flow in Redox Flow Batteries, <em> AIChE Journal </em> 69(7) e18051 <a href="https://doi.org/10.1002/aic.18051"; style="font-weight: normal"> https://doi.org/10.1002/aic.18051 </a> </li>
