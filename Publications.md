@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Publications, Presentations, and Services"
 permalink: /Publications
+---
 
 <a href=""> 
  Home 
