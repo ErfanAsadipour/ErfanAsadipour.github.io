@@ -27,12 +27,20 @@
 
 <p style= "margin-left: 10px; margin-right: 10px"> I am a chemical engineer.  <p> -->
 
+<a href="Home.html"; style="padding: 5px; margin-left: 200px"> Home </a> &#x2022;
+<a href="Research interests.html"; style="padding: 5px;"> Research interests </a> &#x2022;
+<a href="Publications.html"; style="padding: 5px;"> Publications, presentations, and services</a>
+
+<h2> Background and Research Interests </h2>
+
+<p style= "margin-left: 10px; margin-right: 10px"> I am a chemical/mechanical engineering researcher with a specialty in reactor design and polymeric composite development for electrochemical devices. My research interest lies in interdisciplinary topics of performance and durability enhancement of redox flow batteries and water electrolyzers.
+
 <h2> Education </h2>
 
 <ul style="line-height:200%; margin-left: 10px; margin-right:10px">
-<li>  <b> Ph.D. </b> in Energy, Environmental and Chemical Engineering, Washington University in St. Louis, USA, <b> 2025 </b> <br> Research Assistant at Electrochemical Engineering Research Laboratory (PI: Prof. Vijay Ramani) <br> Dissertation title: <em> Enhancing Ion Transport and Electron Transfer in Redox Flow Batteries through Component Design </em> </li> 
-<li>  <b> M.Sc. </b> in Energy, Environmental and Chemical Engineering, Washington University in St. Louis, USA, <b> 2021 </b> <br> Research Assistant at Electrochemical Engineering Research Laboratory (PI: Prof. Vijay Ramani) <br> Thesis title: <em> Analysis of Fluid Flow in Redox Flow Batteries </em> </li>
-<li>  <b> B.Sc. </b> in Mechanical Engineering, Sharif University of Technology, Iran, <b> 2018 </b> <br> Supervised by Prof. Vahid Hosseini </li>
+<li>  <b> Ph.D. </b>, Energy, Environmental and Chemical Engineering, Washington University in St. Louis, USA, <b> 2025 </b> <br> Electrochemical Engineering Research Laboratory (PI: Prof. Vijay Ramani) <br> Dissertation title: <em> Enhancing Ion Transport and Electron Transfer in Redox Flow Batteries through Component Design </em> </li> 
+<li>  <b> M.Sc. </b>, Energy, Environmental and Chemical Engineering, Washington University in St. Louis, USA, <b> 2021 </b> <br> Electrochemical Engineering Research Laboratory (PI: Prof. Vijay Ramani) <br> Thesis title: <em> Analysis of Fluid Flow in Redox Flow Batteries </em> </li>
+<li>  <b> B.Sc. </b>, Mechanical Engineering, Sharif University of Technology, Iran, <b> 2018 </b> <br> PI: Prof. Vahid Hosseini </li>
 </ul>
 
 </body>
