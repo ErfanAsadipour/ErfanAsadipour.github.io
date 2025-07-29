@@ -12,7 +12,7 @@
 
 
 <h2> Peer-Reviewed Publications </h2>
-<ol style="line-height:200%" >
+<ol reversed style="line-height:200%;" >
  <li> Asadipour, E., Ramani, V. (2025) Morphology Control of Immiscible Polymer-Blended Anion-Exchange Membranes, <em> ACS Applied Energy Materials </em> 8, 7, 4681–4687 
   <a href="https://doi.org/10.1021/acsaem.5c00322"> https://doi.org/10.1021/acsaem.5c00322 
   </a> 
