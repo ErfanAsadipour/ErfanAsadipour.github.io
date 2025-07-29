@@ -39,7 +39,7 @@
 
 <h2> Peer Review </h2>
 <ul style="line-height:200%" >
-<li> Indian Chemical Engineer Journal </li>
+<li> Indian Chemical Engineer </li>
 </ul>
 
 <h2> Affiliations </h2>
