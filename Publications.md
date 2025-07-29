@@ -35,6 +35,7 @@
   <li> Why I Became an Engineering Researcher and How to Uncover Misleading Statistics, <em> STARS@SLU Program 2025, Saint Louis University</em> </li>
   <li> Electrochemical Engineering Research Laboratory Presentation, <em> Praxis Week 2024, John Burroughs High School</em> </li>
   <li> Electrochemical Engineering Research Laboratory Presentation, <em> Praxis Week 2023, John Burroughs High School</em> </li>
+</ol>
 
 <h2> Peer Review </h2>
 <ul style="line-height:200%" >
