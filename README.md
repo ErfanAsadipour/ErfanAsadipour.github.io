@@ -38,7 +38,7 @@
 
 <h2> Background and Research Interests </h2>
 
-<p style= "margin-left: 10px; margin-right: 10px"> I am a chemical/mechanical engineering researcher with a specialty in reactor design and polymeric composite development for electrochemical devices. I am interested in applying chemical and mechanical engineering to enhance the performance and durability of redox flow batteries and water electrolyzers. </p>
+<p style= "margin-left: 10px; margin-right: 10px"> Erfan Asadipour is a chemical/mechanical engineering researcher with a specialty in reactor modeling, reactor design, and polymeric composite development for electrochemical devices. He is interested in applying chemical and mechanical engineering concepts to model and enhance the performance and durability of electrochemical flow reactors, such as redox flow batteries, fuel cells, and water electrolyzers. </p>
 
 <h2> Education </h2>
 
