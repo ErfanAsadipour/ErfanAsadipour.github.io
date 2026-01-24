@@ -38,7 +38,7 @@
 
 <h2> Background and Research Interests </h2>
 
-<p style= "margin-left: 10px; margin-right: 10px"> Welcome to my homepage. I am a passionate electrochemical/mechanical engineering researcher with experience in developing polymeric materials and reactor and system modeling and experimentation for electrochemical flow reactors, such as redox flow batteries and electrolyzers, as well as chemical processes.  I am particularly interested in developing polymeric materials, physics-based models, and experimental setups for optimizing reactor and system performances of electrochemical systems that enable a sustainable and clean energy future. </p>
+<p style= "margin-left: 10px; margin-right: 10px"> Welcome to my homepage. I am a passionate electrochemical and mechanical engineering researcher with experience in developing polymeric materials, as well as reactor and process modeling and experimentation for electrochemical flow reactors, such as redox flow batteries and electrolyzers, and chemical processes.  I am particularly interested in developing polymeric materials, physics-based models, and experimental setups for optimizing reactor and process performances of chemical and electrochemical systems that enable a sustainable and clean energy future. </p>
 
 <h2> Education </h2>
 
