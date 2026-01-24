@@ -18,7 +18,7 @@
   <img src="X.png" alt="X (Twitter)" height="25">
 </a>
 <a href="mailto:erfan.asadipour@fsec.ucf.edu" style="text-decoration: none">
-  <span>&#x2709;</span> erfan.asadipour@fsec.ucf.edu
+  <span>&#x2709;</span> erfan.asadipour@ucf.edu
 </a>
 
 <div class="space"></div>
@@ -38,7 +38,7 @@
 
 <h2> Background and Research Interests </h2>
 
-<p style= "margin-left: 10px; margin-right: 10px"> Erfan Asadipour is a chemical/mechanical engineering researcher with a specialty in reactor modeling, reactor design, and polymeric composite development for electrochemical devices. He is interested in applying chemical and mechanical engineering concepts to model and enhance the performance and durability of electrochemical flow reactors, such as redox flow batteries, fuel cells, and water electrolyzers. </p>
+<p style= "margin-left: 10px; margin-right: 10px"> Welcome to my homepage. I am a passionate electrochemical/mechanical engineering researcher with experience in developing polymeric materials and reactor and system modeling and experimentation for electrochemical flow reactors, such as redox flow batteries and electrolyzers, as well as chemical processes.  I am particularly interested in developing polymeric materials, physics-based models, and experimental setups for optimizing reactor and system performances of electrochemical systems that enable a sustainable and clean energy future. </p>
 
 <h2> Education </h2>
 
