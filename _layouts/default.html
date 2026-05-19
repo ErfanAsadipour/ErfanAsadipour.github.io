@@ -6,7 +6,7 @@
     
     <style>
       p.size16 {
-        font-size: 20px;
+        font-size: 16px;
       }
       body {
     font-size: 16px;
@@ -46,7 +46,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h2><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h2>
+        <h2> site.title | default: site.github.repository_name </h2>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" height="300" style=" float: left; margin-left: 0px; border-style:solid"/>
