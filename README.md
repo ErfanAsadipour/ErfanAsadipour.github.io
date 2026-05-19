@@ -40,17 +40,17 @@
 
 <p style= "margin-left: 10px; margin-right: 10px"> Welcome to my homepage. I am a passionate electrochemical and device engineering researcher with experience in developing polymeric materials, as well as reactor and process modeling and experimentation for electrochemical flow reactors, such as redox flow batteries and electrolyzers.  I am particularly interested in developing polymeric materials, physics-based and physics-informed neural network models, and experimental setups for optimizing reactor and process performances of chemical and electrochemical systems that enable a sustainable and clean energy future. </p>
 
-<p style= "margin-left: 10px; margin-right: 10px"> Postdoctoral Experiences:
+<p style= "margin-left: 10px; margin-right: 10px"> Postdoctoral Experiences:   </p>
   <ul style="line-height:150%; margin-left: 10px; margin-right:10px">
-  <li>  <a href="https://mse.ucf.edu/yuxunren/pi/"> Autonomous Electrochemical System Laboratory </a>, University of Central Florida, USA, <b> 2026- </b> <br> PI: Prof. Yuxun Ren </li> 
-  <li>  <a href="https://energyresearch.ucf.edu/"> Florida Solar Energy Center </a> and <a href="https://m2x.energy/"> M2X Energy Inc. </a>, University of Central Florida, USA, <b> 2025-2026 </b> <br> PI: Prof. James Fenton </li> 
+  <li>  <a href="https://mse.ucf.edu/yuxunren/pi/" target="_blank"> Autonomous Electrochemical System Laboratory </a>, University of Central Florida, USA, <b> 2026- </b> <br> PI: Prof. Yuxun Ren </li> 
+  <li>  <a href="https://energyresearch.ucf.edu/" target="_blank"> Florida Solar Energy Center </a> and <a href="https://m2x.energy/" target="_blank"> M2X Energy Inc. </a>, University of Central Florida, USA, <b> 2025-2026 </b> <br> PI: Prof. James Fenton </li> 
   </ul>
-  </p>
+
 <h2> Education </h2>
 
 <ul style="line-height:150%; margin-left: 10px; margin-right:10px">
-<li>  <b> Ph.D. </b>, Energy, Environmental and Chemical Engineering, Washington University in St. Louis, USA, <b> 2025 </b> <br> Dissertation: <em> <a href="https://openscholarship.wustl.edu/eng_etds/1235/"> Enhancing Ion Transport and Electron Transfer in Redox Flow Batteries through Component Design </a>  </em> <br> <a href="https://sites.wustl.edu/ramanilab/"> Electrochemical Engineering Research Laboratory </a>  <br> PI: Prof. Vijay Ramani  </li> 
-<li>  <b> M.Sc. </b>, Energy, Environmental and Chemical Engineering, Washington University in St. Louis, USA, <b> 2021 </b> <br> Thesis: <em> <a href="https://openscholarship.wustl.edu/eng_etds/569/"> Analysis of Fluid Flow in Redox Flow Batteries </a> </em> <br> <a href="https://sites.wustl.edu/ramanilab/"> Electrochemical Engineering Research Laboratory </a> <br> PI: Prof. Vijay Ramani  </li>
+<li>  <b> Ph.D. </b>, Energy, Environmental and Chemical Engineering, Washington University in St. Louis, USA, <b> 2025 </b> <br> Dissertation: <em> <a href="https://openscholarship.wustl.edu/eng_etds/1235/" target="_blank"> Enhancing Ion Transport and Electron Transfer in Redox Flow Batteries through Component Design </a>  </em> <br> <a href="https://sites.wustl.edu/ramanilab/" target="_blank"> Electrochemical Engineering Research Laboratory </a>  <br> PI: Prof. Vijay Ramani  </li> 
+<li>  <b> M.Sc. </b>, Energy, Environmental and Chemical Engineering, Washington University in St. Louis, USA, <b> 2021 </b> <br> Thesis: <em> <a href="https://openscholarship.wustl.edu/eng_etds/569/" target="_blank"> Analysis of Fluid Flow in Redox Flow Batteries </a> </em> <br> <a href="https://sites.wustl.edu/ramanilab/" target="_blank"> Electrochemical Engineering Research Laboratory </a> <br> PI: Prof. Vijay Ramani  </li>
 <li>  <b> B.Sc. </b>, Mechanical Engineering, Sharif University of Technology, Iran, <b> 2018 </b> <br> PI: Prof. Vahid Hosseini </li>
 </ul>
 
