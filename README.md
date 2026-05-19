@@ -32,7 +32,10 @@
  About 
  </a> &#x2022; 
   <a href="/Publications"> 
- Publications, Presentations, and Services 
+ Publications & Presentations 
+ </a> &#x2022;
+  <a href="/Service"> 
+ Service 
  </a> &#x2022;<br> <hr>
 </div>
 
