@@ -29,7 +29,7 @@
 
 <div style="margin-bottom: 20px">
   <a href="/"> 
- Home 
+ About 
  </a> &#x2022; 
   <a href="/Publications"> 
  Publications, Presentations, and Services 
