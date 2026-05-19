@@ -32,20 +32,24 @@
 
 <h2> Local Presentations </h2>
 <ol reversed style="line-height:200%" >
+  <li> Enhancing Performance and Durability of Electrochemical Energy Storage Systems through Material Development and Electrochemical Engineering, <em> Aerospace and Mechanical Engineering Departmental Seminar, University of Oklahoma</em> </li>
   <li> Why I Became an Engineering Researcher and How to Uncover Misleading Statistics, <em> STARS@SLU Program 2025, Saint Louis University</em> </li>
   <li> Electrochemical Engineering Research Laboratory Presentation, <em> Praxis Week 2024, John Burroughs High School</em> </li>
   <li> Electrochemical Engineering Research Laboratory Presentation, <em> Praxis Week 2023, John Burroughs High School</em> </li>
 </ol>
 
-<h2> Peer Review </h2>
+<h2> Peer Review</h2>
 <ul style="line-height:200%" >
+<li> Desalination </li>
 <li> Indian Chemical Engineer </li>
 </ul>
 
-<h2> Affiliations </h2>
+<h2> Affiliations and Service</h2>
 <ul style="line-height:200%" >
-<li> Electrochemical Society (ECS) </li>
-  <li> American Institute of Chemical Engineers (AIChE) </li>
+<li> Electrochemical Society (ECS), Membership </li>
+  <li> American Institute of Chemical Engineers (AIChE), Membership </li>
+  <li> Served as a Judge, <em> 2026 Student Scholar Symposium, University of Central Florida </em></li>
+  <li> Served as a Co-Chair for IEE&E Sessions, <em> 248th ECS Meeting </em></li>
 </ul>
 
 </body>
