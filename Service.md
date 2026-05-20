@@ -6,7 +6,7 @@
  About 
  </a> &#x2022; 
   <a href="/Publications"> 
- Publications & Presentations 
+ Publications
  </a> &#x2022;
   <a href="/Presentations"> 
  Talks/Presentations 
