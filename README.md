@@ -44,7 +44,7 @@
 
 <h2> Background and Research Interests </h2>
 
-<p style= "margin-left: 10px; margin-right: 10px"> Welcome to my homepage. I am a passionate electrochemical and device engineering researcher with experience in developing polymeric materials, as well as reactor and process modeling and experimentation for electrochemical flow reactors, such as redox flow batteries and electrolyzers.  I am particularly interested in developing polymeric materials, physics-based and physics-informed neural network models, and experimental setups for optimizing reactor and process performances of chemical and electrochemical systems that enable a sustainable and clean energy future. </p>
+<p style= "margin-left: 10px; margin-right: 10px"> Welcome to my homepage! I am a passionate electrochemical and device engineering researcher with experience in developing polymeric and composite materials, reactor and process modeling, and device diagnostics for advanced electrochemical energy systems that enable a sustainable and clean-energy future, such as redox flow batteries, sodium-ion batteries, and unitized regenerative fuel cells.  I am particularly interested in integrating physics-based models with cutting-edge material and electrochemical characterizations to design and develop components for electrochemical devices. Currently, I am expanding my expertise to electrochemical device diagnostics and diagnostics-informed component design using neural network models.  </p>
 
 <p style= "margin-left: 10px; margin-right: 10px"> Postdoctoral Experiences:   </p>
   <ul style="line-height:150%; margin-left: 10px; margin-right:10px">
