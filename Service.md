@@ -24,10 +24,11 @@
 
 <h2> Affiliations and Service</h2>
 <ul style="line-height:150%" >
-<li> Electrochemical Society (ECS), Membership </li>
-  <li> American Institute of Chemical Engineers (AIChE), Membership </li>
-  <li> Served as a Judge, <em> 2026 Student Scholar Symposium, University of Central Florida </em></li>
+ <li> Co-Organizing Symposium for IEE&E Division, <em> 251st & 252nd ECS Meetings </em></li>
   <li> Served as a Co-Chair for IEE&E Sessions, <em> 248th ECS Meeting </em></li>
+  <li> Served as a Judge, <em> 2026 Student Scholar Symposium, University of Central Florida </em></li>
+  <li> Electrochemical Society (ECS), Membership </li>
+  <li> American Institute of Chemical Engineers (AIChE), Membership </li>
 </ul>
 
 </body>
